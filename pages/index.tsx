@@ -1,4 +1,4 @@
-import type { GetServerSideProps, GetStaticProps } from 'next'
+import type { GetStaticProps } from 'next'
 
 import Head from 'next/head'
 import { SubscribeButton } from '../src/components/subscribeButton/indes'
